@@ -3,7 +3,7 @@ My first Vue app, a sort of 'magic 8 ball' that answers the questions that you a
 
 So far I've learned about Vue, Vue CLI, Options API, methods, events, reactive props, custom directives, v-if, v-show, v-for, v-model, computed props, components, validations, watch, HTTP petitions, styles, etc.
 
-In this App I have used the yesno.wtf/api to fetch the Yes and No GIFs that would appear as a background when you receive the answer.
+In this App I have used the [Yesno API](https://yesno.wtf/#api) to fetch the Yes and No GIFs that would appear as a background when you receive the answer.
 
 Here you can see a screenshot:
 ![preview](https://github.com/zhuzilu/vue-first-app-indecisive/blob/main/src/assets/img.PNG)
