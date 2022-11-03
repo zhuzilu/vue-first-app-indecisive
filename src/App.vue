@@ -1,20 +1,24 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Indecision />
+  <!--<img alt="Vue logo" src="./assets/logo.png">-->
+  <!--<Counter title="Beginning"/>-->
+  <!--<Counter :start="100"/>-->
+  <!-- if I write this :start="100" is like a number-->
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Counter from './components/Counter.vue'
+import Indecision from './components/Indecision.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Counter, Indecision
   }
 }
 </script>
 
-<style>
+<style> 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
