@@ -1,5 +1,3 @@
-# 003-fundamentos
-
 ## Project setup
 ```
 npm install
