@@ -1,4 +1,4 @@
-#Are you indecisive?
+# Are you indecisive?
 My first Vue app, a sort of 'magic 8 ball' that answers the questions that you ask. I've been learning about Vue from the Udemy course by [@Klerith](https://github.com/Klerith)
 
 So far I've learned about Vue, Vue CLI, Options API, methods, events, reactive props, custom directives, v-if, v-show, v-for, v-model, computed props, components, validations, watch, HTTP petitions, styles, etc.
